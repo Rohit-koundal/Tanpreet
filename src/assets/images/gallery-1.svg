@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" fill="none">
+  <rect width="900" height="900" rx="40" fill="#f8efe2"/>
+  <circle cx="690" cy="210" r="170" fill="#ead4b5"/>
+  <circle cx="230" cy="670" r="210" fill="#d9b58a" opacity="0.7"/>
+  <path d="M180 470C300 360 420 340 540 430C640 505 710 530 770 508" stroke="#8b5b40" stroke-width="24" stroke-linecap="round"/>
+  <path d="M170 260C280 180 390 190 470 260C544 324 620 360 734 330" stroke="#c9a35b" stroke-width="16" stroke-linecap="round"/>
+  <text x="450" y="820" text-anchor="middle" font-size="44" fill="#7a3b46" font-family="Inter, sans-serif" font-weight="700">Moments of Grace</text>
+</svg>

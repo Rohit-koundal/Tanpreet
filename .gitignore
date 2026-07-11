@@ -1,0 +1,6 @@
+/node_modules
+/dist
+.agents
+build
+node_modules
+dist

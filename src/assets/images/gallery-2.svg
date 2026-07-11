@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" fill="none">
+  <rect width="900" height="900" rx="40" fill="#f6eadf"/>
+  <path d="M130 300C260 160 420 150 560 245C670 320 735 430 770 560" stroke="#d3ad73" stroke-width="26" stroke-linecap="round"/>
+  <path d="M160 690C260 570 390 520 535 560C645 590 720 660 760 745" stroke="#7a3b46" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="460" cy="430" r="140" fill="#fff8ef" opacity="0.95"/>
+  <circle cx="460" cy="430" r="86" fill="#e7c7bf" opacity="0.9"/>
+  <text x="450" y="820" text-anchor="middle" font-size="44" fill="#7a3b46" font-family="Inter, sans-serif" font-weight="700">Warmth in Simple Things</text>
+</svg>

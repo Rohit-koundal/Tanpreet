@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" fill="none">
+  <rect width="900" height="900" rx="40" fill="#fbf3e9"/>
+  <ellipse cx="450" cy="450" rx="250" ry="250" fill="#efd7b0" opacity="0.75"/>
+  <ellipse cx="450" cy="450" rx="160" ry="160" fill="#fffdf9"/>
+  <path d="M250 530C300 470 355 442 450 442C545 442 600 470 650 530" stroke="#8b5b40" stroke-width="20" stroke-linecap="round"/>
+  <path d="M330 360C370 330 410 316 450 316C490 316 530 330 570 360" stroke="#c9a35b" stroke-width="18" stroke-linecap="round"/>
+  <text x="450" y="820" text-anchor="middle" font-size="44" fill="#7a3b46" font-family="Inter, sans-serif" font-weight="700">Quiet Beauty</text>
+</svg>

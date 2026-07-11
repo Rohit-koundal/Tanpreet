@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125" fill="none">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff7eb"/>
+      <stop offset="0.55" stop-color="#efd7b0"/>
+      <stop offset="1" stop-color="#b88f53"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f9f0e5" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1125" rx="48" fill="url(#g1)"/>
+  <rect x="38" y="38" width="824" height="1049" rx="40" fill="url(#g2)" stroke="#fef6e7" stroke-width="4"/>
+  <circle cx="450" cy="390" r="170" fill="#f8ede0" fill-opacity="0.72"/>
+  <circle cx="450" cy="390" r="118" fill="#fffdf8" fill-opacity="0.95"/>
+  <path d="M310 720C350 650 389 612 450 612C511 612 550 650 590 720C570 786 520 840 450 840C380 840 330 786 310 720Z" fill="#fff6ea" opacity="0.88"/>
+  <path d="M420 346C419 302 425 258 450 228C475 258 481 302 480 346C479 390 472 415 450 425C428 415 421 390 420 346Z" fill="#8b5b40"/>
+  <path d="M388 366C345 356 314 328 296 292C334 277 375 281 407 305C408 331 402 351 388 366Z" fill="#c99d6b"/>
+  <path d="M512 366C555 356 586 328 604 292C566 277 525 281 493 305C492 331 498 351 512 366Z" fill="#c99d6b"/>
+  <path d="M450 423C428 423 408 430 392 446C414 472 436 485 450 485C464 485 486 472 508 446C492 430 472 423 450 423Z" fill="#8f5f47"/>
+  <text x="450" y="930" text-anchor="middle" font-size="54" fill="#7a3b46" font-family="Inter, sans-serif" font-weight="700">Tanpreet</text>
+  <text x="450" y="985" text-anchor="middle" font-size="28" fill="#84654f" font-family="Inter, sans-serif">A beautiful soul deserves a beautiful celebration</text>
+</svg>

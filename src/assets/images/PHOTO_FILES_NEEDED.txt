@@ -1,0 +1,10 @@
+Save the six Tanpreet photos shared in chat in this folder using these exact names:
+
+tanpreet-1.jpg - lake/boat photo; used as main hero and birthday reveal image
+tanpreet-2.jpg - yellow suit portrait
+tanpreet-3.jpg - yellow suit sunglasses photo
+tanpreet-4.jpg - mountain photo
+tanpreet-5.jpg - festive yellow outfit full photo
+tanpreet-6.jpg - festive yellow close portrait
+
+The chat screenshots are not available to the local filesystem automatically, so the real JPG files must be placed here.

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" rx="48" fill="#f6efe3"/>
+  <circle cx="240" cy="315" r="174" fill="#ead1cb" opacity="0.72"/>
+  <circle cx="240" cy="315" r="104" fill="#fffaf2" opacity="0.88"/>
+  <rect x="600" y="110" width="500" height="410" rx="44" fill="#fffaf2" opacity="0.92" stroke="#c9a35b" stroke-width="6"/>
+  <text x="600" y="520" font-size="48" fill="#6f3040" font-family="Inter, sans-serif" font-weight="700">Happy Birthday Tanpreet</text>
+  <text x="600" y="570" font-size="26" fill="#594438" font-family="Inter, sans-serif">A special celebration made with respect</text>
+</svg>
