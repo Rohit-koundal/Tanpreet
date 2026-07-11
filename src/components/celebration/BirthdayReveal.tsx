@@ -23,7 +23,7 @@ export function BirthdayReveal() {
         ) : (
           <div className="portrait-fallback reveal-fallback">
             <span>Tanpreet</span>
-            <small><img src="./assets/images/tanpreetmain.png" alt="Tanpreet portrait" /></small>
+            <small>Her portrait will appear here</small>
           </div>
         )}
         <span className="reveal-floral top" aria-hidden="true" />

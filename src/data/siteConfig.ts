@@ -1,21 +1,21 @@
 export const siteConfig = {
   recipientName: "Tanpreet",
   birthdayDate: "2026-01-01T00:00:00",
-  mainImage: "/src/assets/images/tanpreetmain.png",
+  mainImage: "/images/tanpreetmain.png",
   mainImageObjectPosition: "42% center",
   galleryImages: [
-    "/src/assets/images/tanpreet-1.png",
-    "/src/assets/images/tanpreet-2.png",
-    "/src/assets/images/tanpreet-3.png",
-    "/src/assets/images/tanpreet-4.png",
-    "/src/assets/images/tanpreet-5.png",
-    "/src/assets/images/tanpreet-6.png"
+    "/images/tanpreet-1.png",
+    "/images/tanpreet-2.png",
+    "/images/tanpreet-3.png",
+    "/images/tanpreet-4.png",
+    "/images/tanpreet-5.png",
+    "/images/tanpreet-6.png"
   ],
   storyImages: [
-    "/src/assets/images/tanpreet-1.png",
-    "/src/assets/images/tanpreet-2.png",
-    "/src/assets/images/tanpreet-3.png",
-    "/src/assets/images/tanpreet-4.png"
+    "/images/tanpreet-1.png",
+    "/images/tanpreet-2.png",
+    "/images/tanpreet-3.png",
+    "/images/tanpreet-4.png"
   ],
   music: "/audio/happy-birthday.wav",
   audio: {

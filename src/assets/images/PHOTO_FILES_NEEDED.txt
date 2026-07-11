@@ -1,10 +1,11 @@
-Save the six Tanpreet photos shared in chat in this folder using these exact names:
+Photos have been copied to public/images for production deployment.
 
-tanpreet-1.jpg - lake/boat photo; used as main hero and birthday reveal image
-tanpreet-2.jpg - yellow suit portrait
-tanpreet-3.jpg - yellow suit sunglasses photo
-tanpreet-4.jpg - mountain photo
-tanpreet-5.jpg - festive yellow outfit full photo
-tanpreet-6.jpg - festive yellow close portrait
+Render/Vite serves these public paths:
 
-The chat screenshots are not available to the local filesystem automatically, so the real JPG files must be placed here.
+/images/tanpreetmain.png - main hero and birthday reveal image
+/images/tanpreet-1.png - lake/boat photo
+/images/tanpreet-2.png - yellow suit portrait
+/images/tanpreet-3.png - yellow suit sunglasses photo
+/images/tanpreet-4.png - mountain photo
+/images/tanpreet-5.png - festive yellow outfit full photo
+/images/tanpreet-6.png - festive yellow close portrait

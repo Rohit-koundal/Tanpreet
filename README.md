@@ -23,14 +23,15 @@ Recommended location:
 
 - `src/assets/images/`
 
-Use these exact filenames for the 6 photos shared in chat:
+Use these exact filenames for deployable public photos:
 
-- `src/assets/images/tanpreet-1.jpg` - main lake/boat photo, also used for hero and birthday reveal
-- `src/assets/images/tanpreet-2.jpg` - yellow suit portrait
-- `src/assets/images/tanpreet-3.jpg` - yellow suit sunglasses photo
-- `src/assets/images/tanpreet-4.jpg` - mountain photo
-- `src/assets/images/tanpreet-5.jpg` - festive yellow outfit full photo
-- `src/assets/images/tanpreet-6.jpg` - festive yellow close portrait
+- `public/images/tanpreetmain.png` - main hero and birthday reveal image
+- `public/images/tanpreet-1.png` - lake/boat photo
+- `public/images/tanpreet-2.png` - yellow suit portrait
+- `public/images/tanpreet-3.png` - yellow suit sunglasses photo
+- `public/images/tanpreet-4.png` - mountain photo
+- `public/images/tanpreet-5.png` - festive yellow outfit full photo
+- `public/images/tanpreet-6.png` - festive yellow close portrait
 
 The app falls back gracefully if any image is missing.
 
