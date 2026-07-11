@@ -39,15 +39,15 @@ The app falls back gracefully if any image is missing.
 
 Use properly licensed or royalty-free audio files. The main track should be a soft instrumental Happy Birthday style recording, not a commercial copyrighted recording.
 
-Bundled generated WAV assets are expected at:
+Deployable audio assets are expected at:
 
-- `public/audio/happy-birthday.wav`
-- `public/audio/luxury-celebration.wav`
-- `public/audio/celebration-chime.wav`
-- `public/audio/popper.wav`
-- `public/audio/sparkle.wav`
+- `public/audio/happy-birthday.mp3`
+- `public/audio/luxury-celebration.mp3`
+- `public/audio/celebration-chime.mp3`
+- `public/audio/popper.mp3`
+- `public/audio/sparkle.mp3`
 
-The app tries `public/audio/happy-birthday.wav` first, then `public/audio/luxury-celebration.wav`. Missing audio will not crash the celebration; it logs one helpful warning and continues quietly.
+The app tries `public/audio/happy-birthday.mp3` first, then `public/audio/luxury-celebration.mp3`. Missing audio will not crash the celebration; it logs one helpful warning and continues quietly.
 
 ## Edit content
 

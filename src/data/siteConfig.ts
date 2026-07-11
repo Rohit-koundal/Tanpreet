@@ -17,13 +17,13 @@ export const siteConfig = {
     "/images/tanpreet-3.png",
     "/images/tanpreet-4.png"
   ],
-  music: "/audio/happy-birthday.wav",
+  music: "/audio/happy-birthday.mp3",
   audio: {
-    happyBirthday: "/audio/happy-birthday.wav",
-    fallbackMusic: "/audio/luxury-celebration.wav",
-    chime: "/audio/celebration-chime.wav",
-    popper: "/audio/popper.wav",
-    sparkle: "/audio/sparkle.wav"
+    happyBirthday: "/audio/happy-birthday.mp3",
+    fallbackMusic: "/audio/luxury-celebration.mp3",
+    chime: "/audio/celebration-chime.mp3",
+    popper: "/audio/popper.mp3",
+    sparkle: "/audio/sparkle.mp3"
   },
   showCountdown: false,
   enableMusic: true,
